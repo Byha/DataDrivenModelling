@@ -1,6 +1,6 @@
 # TODO: Add comment
-# 
-# Author: Byman Hamududu 22. okt. 2015 Run all selected DDM models.R
+# M5c (‘c’ - ‘cubist’) generates M5 model trees using the M5’ algorithm, and  'c' enhances the original M5 algorithm
+# Author: Byman Hamududu 22. okt. 2015 Running m5c.model.R
 ###############################################################################
 
 m5c.model<-function(traindata,testdata){

@@ -1,6 +1,7 @@
 # TODO: Add comment
-# 
-# Author: Byman Hamududu 22. okt. 2015 Run all selected DDM models.R
+#  M5 (sometimes with‘P’ - ‘prime’) generates M5 model trees using the M5’ algorithm, and  'P' enhances the original M5 algorithm
+#
+# Author: Byman Hamududu 22. okt. 2015 Running  M5 models.R
 ###############################################################################
 
 m5n.model<-function(traindata,testdata){

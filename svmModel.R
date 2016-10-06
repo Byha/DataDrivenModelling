@@ -1,6 +1,8 @@
 # TODO: Add comment
-# 
-# Author: Byman Hamududu 22. okt. 2015 Run all selected DDM models.R
+# Support Vector Machine (SVM) is used to train a support vector machine. It is used to carry out general regression and
+# classification (of nu and epsilon-type), as well as density-estimation.. 
+# Tuning using the e1071 package
+# Author: Byman Hamududu 22. okt. 2015 Running SVM model.R
 ###############################################################################
 
 svm.model<-function(traindata,testdata){

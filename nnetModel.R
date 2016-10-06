@@ -1,6 +1,8 @@
 # TODO: Add comment
-# 
-# Author: Byman Hamududu 22. okt. 2015 Run all selected DDM models.R
+#  
+# NNET uses feed-forward neural networks with a single hidden layer, and for multinomial log-linear models. 
+# Tuning using the caret package
+# Author: Byman Hamududu 22. okt. 2015 Running nnet.model.R
 ###############################################################################
 
 nnet.model<-function(traindata,testdata){

@@ -1,6 +1,6 @@
 # TODO: Add comment
-# 
-# Author: Byman Hamududu 22. okt. 2015 Run all selected DDM models.R
+# Generalized Boosting  Models
+# Author: Byman Hamududu 22. okt. 2015  Running gbm.model.R
 ###############################################################################
 
 gbm.model<-function(traindata,testdata){
